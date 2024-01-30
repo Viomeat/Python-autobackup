@@ -1,10 +1,9 @@
 # Python-autobackup
 Code By ChatGPT
+python版本为3.12.1
 依赖schedule库
-```python
+```
 pip install schedule
-
-
-
-
-> 这里是正常的文本，不是代码块。
+```
+然后下载脚本启动即可
+未测试是否支持所有python脚本
